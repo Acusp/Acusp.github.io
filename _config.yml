@@ -10,7 +10,7 @@ title:               Absorb
 tagline:             acusp's blog
 description:         ''
 url:                 http://acusp.info
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 
 # About/contact
