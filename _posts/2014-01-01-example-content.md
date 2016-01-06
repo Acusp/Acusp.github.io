@@ -47,7 +47,7 @@ adder(2, 6);
 {% endhighlight %}
 
 ```js
-// Create a function that takes two arguments and returns the sum of those arguments
+// 中午注释
 var adder = new Function("a", "b", "return a + b");
 
 // Call the function
