@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   bottom: 0;
   left: -14rem;
-  width: 14rem;
+  width: 12rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: #FBFF0D;
 }
 .sidebar-item {
   padding: 1rem;
@@ -178,6 +178,7 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid rgba(255,255,255,.1);
 }
 .sidebar-nav-item {
+  text-align: center;
   display: block;
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);

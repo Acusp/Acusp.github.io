@@ -9,7 +9,7 @@ gems: 				 [jekyll-paginate]
 encoding:            UTF-8
 title:               岐点
 tagline:             acusp's blog
-description:         'A blog to record and share something importent in my study. '
+description:         "About programming, about life, about my ideas. Wish you like it!"
 url:                 http://acusp.info
 baseurl:             ''
 paginate:            5
