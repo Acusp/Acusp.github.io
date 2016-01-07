@@ -12,7 +12,7 @@ tagline:             acusp's blog
 description:         "About programming, about life, about my ideas. Wish you like it!"
 url:                 http://acusp.info
 baseurl:             ''
-paginate:            5
+paginate:            7
 
 # About/contact
 author:
