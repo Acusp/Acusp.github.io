@@ -7,8 +7,8 @@ title: About
 
 <div>
   Welcome to my blog.<br />
-  I am Acusp Xu, come from china.<br />
+  I am Acusp Xu, come from China.<br />
   A beginner for computer science.<br />
-  Curious for many things, responsible for my work, my life and myself.<br />
-  Look forwards to being a excellent and amazing programmer.
+  Curious for various things, responsible for my work, my life and myself.<br />
+  Look forwards to be an excellent and amazing programmer.
 </div>
