@@ -6,9 +6,10 @@ permalink:           pretty
 gems: 				 [jekyll-paginate]
 
 # Setup
-title:               Absorb
+encoding:            UTF-8
+title:               岐点
 tagline:             acusp's blog
-description:         ''
+description:         'It is a blog to record something importent in my study.'
 url:                 http://acusp.info
 baseurl:             ''
 paginate:            5
@@ -19,6 +20,8 @@ author:
   url:               https://twitter.com/acusp_xu
   email:             acusp.xu@gmail.com
   github:		     https://github.com/acusp
+  disqus:            acusp
+  thumb: 			 /images/author.jpg
 
 # Build settings
 markdown: redcarpet

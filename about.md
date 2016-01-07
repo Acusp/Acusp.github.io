@@ -3,7 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hi, I am Acusp Xu, welcome to my blog.
-  It is a blog to record something importent in my study.
-</p>
+<img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
+
+<div>
+  Welcome to my blog.<br />
+  I am Acusp Xu, come from china.<br />
+  A student for software engineering
+</div>
