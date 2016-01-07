@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Example content
-categories:
-- test
+categories: testB
 ---
 
 

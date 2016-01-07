@@ -8,5 +8,5 @@ title: About
 <div>
   Welcome to my blog.<br />
   I am Acusp Xu, come from china.<br />
-  A student for software engineering
+  A beginner for computer science.
 </div>

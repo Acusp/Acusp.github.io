@@ -3,7 +3,7 @@ layout: page
 title: Categories
 tags: [Categories]
 ---
-<ul class="tag-box inline">
+<ul class="tag_box inline">
 {% assign tags_list = site.categories %}
 {% if tags_list.first[0] == null %}
 {% for tag in tags_list %}
@@ -16,9 +16,10 @@ tags: [Categories]
 {% endif %}
 {% assign tags_list = nil %}
 </ul>
+
 {% for tag in site.categories %}
 <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-<ul class="post-list">
+<ul class="post_list">
 {% assign pages_list = tag[1] %}
 {% for post in pages_list %}
 {% if post.title != null %}
