@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
+<img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb">
 
 <div>
   Welcome to my blog.<br />
