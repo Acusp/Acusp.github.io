@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 常见的开源协议
+author: acusp
+description:  simple way to learn open source license, 了解常见的开源协议
+keywords: 开源协议,软件许可证,software license
 categories: others
 tags: license
 ---
