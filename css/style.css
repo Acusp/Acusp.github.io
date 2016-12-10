@@ -1,19 +1,29 @@
-/* dark theme */
+
+
 body {
   background: #282828;
   color: #FFF;
+  text-align: center;
 }
 
 a, a:hover {
   color: #C5E105;
+  text-decoration:none;
 }
 
 footer {
   color: #AAA;
+  margin-top: 60%;
 }
 
 footer a:hover {
   color: #AAA;
+  text-decoration:underline;
+}
+
+header {
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 #logo h1 a:hover {
