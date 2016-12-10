@@ -1,0 +1,25 @@
+/* dark theme */
+body {
+  background: #282828;
+  color: #FFF;
+}
+
+a, a:hover {
+  color: #C5E105;
+}
+
+footer {
+  color: #AAA;
+}
+
+footer a:hover {
+  color: #AAA;
+}
+
+#logo h1 a:hover {
+    color: #FFF;
+}
+
+#code {
+    color: lightgreen;
+}
