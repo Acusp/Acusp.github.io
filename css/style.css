@@ -49,10 +49,6 @@ pre a {
     color: red;
 }
 
-#exit a{
-    color: lightgreen;
-}
-
 #exit a:hover{
     color: #C5E105;
 }

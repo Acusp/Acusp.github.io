@@ -12,4 +12,4 @@ About Me: brief introduce of myself.
 
 ## Social Media
 
-[微博](http://weibo.com/xsp610); [简书](http://www.jianshu.com/users/58b3a9bda2c9/latest_articles)
+[twitter](https://twitter.com/acusp_xu); [weibo](http://weibo.com/xsp610); [jianshu](http://www.jianshu.com/users/58b3a9bda2c9/latest_articles)
