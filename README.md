@@ -1,5 +1,15 @@
-* [岐点-Blog](http://acusp.info)
+# ACUSP.INFO
 
-* [微博](http://weibo.com/xsp610)
+[![Bless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/alpaca.svg)](http://lunagao.github.io/BlessYourCodeTag/)
 
-* [简书](http://www.jianshu.com/users/58b3a9bda2c9/latest_articles)
+## Content
+
+Articles: list the articles and notes i write.
+
+Favorite: list some useful tools, websites, books, etc.
+
+About Me: brief introduce of myself.
+
+## Social Media
+
+[微博](http://weibo.com/xsp610); [简书](http://www.jianshu.com/users/58b3a9bda2c9/latest_articles)
