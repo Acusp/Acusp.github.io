@@ -63,14 +63,8 @@ q {
     font-size: 1.2em;
 }
 
-/* articles.html */
-
-#articles_content pre {
-    font-size: 1.2em;
-}
-
 /* favorite.html */
 
-#favorite_content pre {
+#navigation_content pre {
     font-size: 1.2em;
 }
