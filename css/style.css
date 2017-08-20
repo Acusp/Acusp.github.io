@@ -4,6 +4,7 @@ body {
   background: #282828;
   color: #FFF;
   text-align: center;
+  font: normal 100%;
 }
 
 a, a:hover {
@@ -55,6 +56,12 @@ pre a {
 
 q {
     color: transparent;
+}
+
+@media screen and (max-device-width: 400px) {
+　　　　#banner {
+　　　　　　display:none;
+　　　　}
 }
 
 
