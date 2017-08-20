@@ -59,9 +59,9 @@ q {
 }
 
 @media screen and (max-device-width: 800px) {
-　　　　#banner {
-　　　　　　display:none;
-　　　　}
+    #banner {
+        display:none;
+    }
 }
 
 
