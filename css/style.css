@@ -58,12 +58,6 @@ q {
     color: transparent;
 }
 
-@media screen and (max-device-width: 1080px) {
-    #banner {
-        display:none;
-    }
-}
-
 
 /* favorite.html */
 

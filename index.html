@@ -56,7 +56,6 @@
  \___/   \___/  |____/    |_|     |_|      \___/  |_| \_\   |_|     |_| \_\ |_____| |_____|  <q>|</q>
 </pre>
             <br />
-            <!-- <pre> [acusp@github ~]$ cd acusp.info                                            </pre> -->
         </div>
         <!-- end content -->
 
@@ -69,7 +68,16 @@
 
     <!-- begin javascript -->
     <script  type="text/javascript" >
-
+        var system ={};
+        var p = navigator.platform;
+        system.win = p.indexOf("Win") == 0;
+        system.mac = p.indexOf("Mac") == 0;
+        system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+        if(system.win||system.mac||system.xll){
+            // window.location.href="#";        
+        }else{
+            document.getElementById("banner").innerHTML="";
+        }
     </script>
     <!-- end javascript -->
 </body>
