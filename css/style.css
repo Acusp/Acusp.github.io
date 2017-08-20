@@ -42,11 +42,11 @@ header {
 
 .content {
     color: lightgreen;
+    font-size: 1.2em;
 }
 
 pre {
     margin: 0%;
-    font-size: 1.2em;
 }
 
 pre a {
