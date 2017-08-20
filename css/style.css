@@ -11,12 +11,13 @@ a, a:hover {
   text-decoration:none;
 }
 
+
 /* footer */
 
 footer {
   color: #AAA;
-  margin-top: 50px;
-  margin-bottom: 10px;
+  margin-top: 2%;
+  margin-bottom: 1.5%;
 }
 
 footer a:hover {
@@ -24,16 +25,18 @@ footer a:hover {
   text-decoration:underline;
 }
 
+
 /* header */
 
 header {
-    padding-top: 20px;
-    padding-bottom: 10px;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
 }
 
 #logo h1 a:hover {
     color: #FFF;
 }
+
 
 /* content */
 
@@ -42,26 +45,18 @@ header {
 }
 
 pre {
-    margin: 0px;
+    margin: 0%;
+    font-size: 1.2em;
 }
 
 pre a {
     color: red;
 }
 
-#exit a:hover{
-    color: #C5E105;
-}
-
 q {
     color: transparent;
 }
 
-/* about.html */
-
-#about_content pre {
-    font-size: 1.2em;
-}
 
 /* favorite.html */
 
