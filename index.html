@@ -7,7 +7,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- stylesheets -->
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/common.css" />
     <!-- shortcut icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
 </head>
@@ -61,22 +61,22 @@
 
         <!-- begin footer -->
         <footer>
-            <p>Copyright &copy; 2015-2016 <a href="http://acusp.info">ACUSPINFO</a>. All Rights Reserved.</p>
+            <p>Copyright &copy; 2015-2017 <a href="http://acusp.info">ACUSPINFO</a>. All Rights Reserved.</p>
         </footer>
         <!-- end footer -->
     </div>
 
     <!-- begin javascript -->
     <script  type="text/javascript" >
-        var system ={};
+        var system = {};
         var p = navigator.platform;
         system.win = p.indexOf("Win") == 0;
         system.mac = p.indexOf("Mac") == 0;
         system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
-        if(system.win||system.mac||system.xll){
-            // window.location.href="#";        
-        }else{
-            document.getElementById("banner").innerHTML="";
+        if (system.win || system.mac || system.x11){
+            // window.location.href="#";
+        } else {
+            document.getElementById("banner").innerHTML = "";
         }
     </script>
     <!-- end javascript -->
