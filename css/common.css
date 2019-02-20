@@ -4,8 +4,8 @@ body {
   background: #282828;
   color: #FFF;
   text-align: center;
-  font: normal 100%;
   font-family: 'VT323', monospace;
+  font: normal 100%;
 }
 
 a, a:hover {
