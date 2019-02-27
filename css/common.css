@@ -4,7 +4,6 @@ body {
   background: #282828;
   color: #FFF;
   text-align: center;
-  font-family: 'VT323', monospace;
   font: normal 100%;
 }
 
@@ -59,3 +58,6 @@ q {
     color: transparent;
 }
 
+h4 {
+  font-family: 'VT323', monospace;
+}
