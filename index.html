@@ -70,17 +70,11 @@
 
     <!-- begin javascript -->
     <script  type="text/javascript" >
-        var system = {};
-        var p = navigator.platform;
-        system.win = p.indexOf("Win") == 0;
-        system.mac = p.indexOf("Mac") == 0;
-        system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
-        if (system.win || system.mac || system.x11){
-            // window.location.href="#";
-        } else {
+
+        if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
             document.getElementById("banner").innerHTML = "";
         }
-        alert(p);
+
     </script>
     <!-- end javascript -->
 </body>
