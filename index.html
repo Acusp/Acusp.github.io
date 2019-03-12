@@ -63,7 +63,7 @@
 
         <!-- begin footer -->
         <footer>
-            <p>Copyright &copy; 2015-2019 <a href="https://acusp.info">ACUSP.INFO</a> All Rights Reserved.</p>
+            <p>Copyright &copy; 2015-<span id="year"></span> <a href="https://acusp.info">ACUSP.INFO</a> All Rights Reserved.</p>
         </footer>
         <!-- end footer -->
     </div>
@@ -74,6 +74,10 @@
         if (/phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone/i.test(navigator.userAgent)) {
             document.getElementById("banner").innerHTML = "";
         }
+
+        var date = new Date;
+        var year = date.getFullYear();
+        document.getElementById("year").innerHTML = year;
 
     </script>
     <!-- end javascript -->
